@@ -1,4 +1,4 @@
-# Microsoft Power BI project
+# Microsoft Power BI projects
 This repository contains projects/codes/data/files that I created for data visualization and report using Microsoft power BI.
 
 # Files
